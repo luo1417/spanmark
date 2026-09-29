@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Spanmark">
+  <rect width="64" height="64" rx="8" fill="#f4f0e6"/>
+  <path d="M8 40h48" stroke="#1e2a24" stroke-width="3" stroke-linecap="round"/>
+  <path d="M8 40v-8M56 40v-8" stroke="#1e2a24" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="34" cy="40" r="4" fill="#c4492c"/>
+  <path d="M34 28v6" stroke="#c4492c" stroke-width="2" stroke-linecap="round"/>
+</svg>
